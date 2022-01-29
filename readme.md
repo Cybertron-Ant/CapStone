@@ -1,3 +1,3 @@
 
 
-Make a copy of the Sheet and name it “GISEO Work Assignment –Your Name”
+Carry out the various tasks relating to Facebook Page promotions
