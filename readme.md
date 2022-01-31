@@ -1,3 +1,8 @@
 
 
-Open the spreadsheet titled "fruits and vegetables.xlsx" that was sharer with you from your Google Drive
+Add columns to the right of the table in each sheet and conduct monthly frequency analysis on both vegetables and fruits using:
+
+Mode
+Median
+Mean
+Range
